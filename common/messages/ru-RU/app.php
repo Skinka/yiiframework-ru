@@ -74,7 +74,7 @@ return [
     'Update post' => 'Обновить пост',
     'Updated At' => 'Обновлён',
     'User ID' => 'ID пользователя',
-    'User with the same email as in {client} account already exists but isn\'t linked to it. Login first and then link it from your settings.' => 'Пользователь с такми же email как в {client} уже существует, но не привязан. Войдите и попробуйте привязать его в настройках.',
+    'User with the same email as in {client} account already exists but isn\'t linked to it. Login first and then link it from your settings.' => 'Пользователь с таким же email как в {client} уже существует, но не привязан. Войдите и попробуйте привязать его в настройках.',
     'Username' => 'Имя пользователя',
     'Verified' => 'Проверен',
     'View Profile' => 'Профиль',
