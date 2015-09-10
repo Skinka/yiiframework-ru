@@ -108,3 +108,17 @@ a.desc:after {
 .project-form .CodeMirror {
     height: 150px;
 }
+
+.navbar-brand {
+    margin-top: 14px;
+}
+
+.brand-label {
+    position: relative;
+    font-size: 45px;
+    top: 5px;
+}
+
+.brand-label span {
+    margin-right: 1px;
+}

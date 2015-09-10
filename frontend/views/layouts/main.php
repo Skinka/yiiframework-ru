@@ -30,7 +30,7 @@ AppAsset::register($this);
         <?php
         NavBar::begin(
             [
-                'brandLabel' => '<span class="animated flash text-orange">y</span><span class="animated flash text-green">i</span><span class="animated flash text-blue">i</span>framework.ru',
+                'brandLabel' => '<span class="brand-label"><span class="animated fadeInLeft text-orange">y</span><span class="animated fadeInUp text-green">i</span><span class="animated fadeInDown text-blue">i</span></span><span class="animated fadeInRight">framework.ru</span>',
                 'brandUrl' => Yii::$app->homeUrl,
                 'options' => [
                     'class' => 'navbar navbar-default drop navbar-static-top',
